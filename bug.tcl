@@ -1,0 +1,1 @@
+proc foo {x} {return [expr {$x + 1}]} puts [foo 1]
